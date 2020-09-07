@@ -9,7 +9,7 @@
 This project is an application used to store accounts credentials. You can create new,add existing and view them. 
 
 ## Screenshot
-<img src=https://https://github.com/wikky2012/PasswordLocker/blob/gh-pages/images/Screenshot%20from%202020-09-07%2022-55-32.png width="900px" height="440px">
+<img src=https://github.com/wikky2012/PasswordLocker/blob/gh-pages/images/Screenshot%20from%202020-09-07%2022-55-32.png width="800px" height="440px">
 
 ## Live Page 
 https://wikky2012.github.io/PasswordLocker/
