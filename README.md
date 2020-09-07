@@ -9,42 +9,34 @@
 This project is an application used to store accounts credentials. You can create new,add existing and view them. 
 
 ## Screenshot
-<img src=https://github.com/wikky2012/Delani-Studio/blob/master/screenshot/Screenshot%20from%202020-07-25%2013-36-58.png width="900px" height="440px">
+<img src=https://https://github.com/wikky2012/PasswordLocker/blob/gh-pages/images/Screenshot%20from%202020-09-07%2022-55-32.png width="900px" height="440px">
 
 ## Live Page 
-https://wikky2012.github.io/Delani-Studio/
+https://wikky2012.github.io/PasswordLocker/
 
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/wikky2012/Delani-Studio.git```
+* git clone ```https://github.com/wikky2012/PasswordLocker.git```
 
-* cd Delani-Studio
+* cd PasswordLocker
 
 * code . or atom . depending on the text editor of your choise.
 
 ## Technologies Used
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* Python
 * Markdown
-* [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-* [jQuery](https://www.w3schools.com/jquery/default.asp)
 
 
 
 ## BDD
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Enter your name  |   Wicliffe Ronoh|     |
-| Enter your Email Address  | wicliferono@gmail.com |   |
-| Enter your message or comment   |  I would love to work with you     |     |
-| Press Submit|     |Pop up "Wicliffe Ronoh , we have received your message. Thank you for reaching out to us".|
-
-## Known Bugs
-* The site is not responsive enough for some devices. 
-* mail chimp API does not function properly.
+|  Welcome to Passwordlocker  |   select short-code to navigate|Taken to area to carry out command |
+| Prompt to enter details  |Details to input |  Gives results according to the command given |
+| Exit Command   |  Type ex to exit   |   Program exits  |
 
 ## Contact Information 
 
