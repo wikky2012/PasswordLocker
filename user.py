@@ -1,11 +1,12 @@
 class User:
     user_list = []
-    def save_created_credential(self):
-        User.user_list.append(self)
 
     def __init__(self,username,password):
         self.username = username
         self.password = password
+        
+    def save_created_credential(self):
+        User.user_list.append(self)
 
     def save_existing_credential_accounts(self):
         User.user_list.append(self)

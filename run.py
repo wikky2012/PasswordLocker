@@ -22,16 +22,16 @@ def delete_existing_credential(user):
 
 def main():
     while True:
-        print('-'*40)
+        print('-'*80)
         print("Welcome to Password Locker")
         print('\n')
-        print("Select a short code to navigate through:"  )
+        print("Select a short code to navigate through:")
         print('\n')
         print("nu => To create a new user use")
         print("lg => To login to your account")
-        print("aea => add existing account credentials,")
-        print("vac => view all accounts ,")
-        print("dc => delete credentials ")
+        print("aea => add existing account credentials")
+        print("vac => view all accounts")
+        print("dc => delete credentials")
         print("ex => to exit")
         print('-'*40)
         short_code = input().lower()
@@ -147,9 +147,8 @@ def main():
            print("Credential deleted")
            print('-'*40)
 
-
         elif short_code == 'ex':
-            print("Bye")
+            print("Bye see you")
             break
             print('-'*40)
         
