@@ -50,5 +50,6 @@ class TestUser(unittest.TestCase):
         found_user = User.view_my_various_credential_accounts("Test")
 
         self.assertEqual(found_user.username,test_user.username)
+        
 if __name__ == '__main__':
     unittest.main()
