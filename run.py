@@ -85,6 +85,7 @@ def main():
                 print(f"Welcome {entered_username} to your account")
                 print('\n')
                 print('-'*40)
+                
         elif short_code == 'lg':
             print("Welcome")
             print("Enter your User name")
